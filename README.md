@@ -1,11 +1,4 @@
 <p  align="center"> Boas Vindas, tava quieto aqui sem ti :beers: :notes: </p> 
-
-
-
- <p align="center"> 
-    <img  src="https://github.com/braianbraga/braga.hudson/blob/main/sasaga.jpg" idht="250px" height="250px" alt="alternate text">
- </p>
- 
  
 </br>
 
