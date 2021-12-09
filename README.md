@@ -6,9 +6,9 @@
 
 :mage_man: Braian Hudson Braga
 </br>
-:mortar_board:  Estagiario de Desenvolvimento na Faculdade de Tecnologia -> [@BandTec](https://github.com/BandTec)
+:mortar_board:  Estagiario de Desenvolvimento na Faculdade de Tecnologia -> [@SPTech](https://www.sptech.school/)
 </br>
-:computer: Atualmente trabalho com React.js e Vue.js
+:computer: Atualmente trabalho com Vue.js alem de ser MONITOR e Líder Pedagógico.
 </br>
 :womans_hat: Eu tenho um sonho, É não me importo de morrer para realizar esse sonho.
 </br>
