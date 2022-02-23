@@ -6,9 +6,9 @@
 
 :mage_man: Braian Hudson Braga
 </br>
-:mortar_board:  Estagiario de Desenvolvimento na Faculdade de Tecnologia -> [@SPTech](https://www.sptech.school/)
+:mortar_board:  Analista e Monitor acadêmico na Faculdade de Tecnologia -> [@SPTech](https://www.sptech.school/)
 </br>
-:computer: Atualmente trabalho com Vue.js alem de ser MONITOR e Líder Pedagógico.
+:computer: Atualmente trabalho com Vue.js.
 </br>
 :womans_hat: Eu tenho um sonho, É não me importo de morrer para realizar esse sonho.
 </br>
