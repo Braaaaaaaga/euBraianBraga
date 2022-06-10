@@ -13,9 +13,6 @@
 :womans_hat: Eu tenho um sonho, É não me importo de morrer para realizar esse sonho.
 </br>
 
-<img widht="48%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=braianbraga&show_icons=true&theme=dracula"/>
-
-
 ### :floppy_disk: Linguagens
 <a href="#">
     <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
