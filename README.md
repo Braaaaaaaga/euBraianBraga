@@ -2,6 +2,8 @@
  
 </br>
 
+![Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=euBraianBraga&show_icons=true&theme=dracula&count_private=true)
+
 </br>
 
 :mage_man: Braian Hudson Braga
