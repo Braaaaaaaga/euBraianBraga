@@ -1,30 +1,16 @@
-<p  align="center"> Boas Vindas, tava quieto aqui sem ti :beers: :notes: </p> 
+# Olá, sou Braian Braga! 
+
+[![Linkedin: braianhudsonbraga](https://img.shields.io/badge/-Braian%20Braga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braian-hudson-braga-9aa259156/)](https://www.linkedin.com/in/braian-hudson-braga-9aa259156/)
+
+<p  align="center"> Boas Vindas , tava quieto aqui sem ti :beers: :notes: </p> 
  
-</br>
+Sou **Braia Braga** (he/him). Sou Engenheiro de Software Front-End, sou uma pessoa fascinada pela tecnologia e seu crescimento, tendo que sempre se manter evoluindo, desde que meu irmão me mostrou pela primeira vez uma linha de comando em um caderno.
 
-![Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=euBraianBraga&show_icons=true&theme=dracula&count_private=true)
-
-</br>
-
-:mage_man: Braian Hudson Braga
-</br>
-:mortar_board:  Desenvolvedor e Monitor acadêmico na Faculdade de Tecnologia -> [@SPTech](https://www.sptech.school/)
-</br>
-:computer: Atualmente trabalho com Vue.js.
-</br>
-:womans_hat: Eu tenho um sonho, É não me importo de morrer para realizar esse sonho.
-</br>
-
-### :floppy_disk: Linguagens
-<a href="#">
-    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-</a> 
+Estou sempre tentando encontrar novos jeitos de me manter atualizados, criando algo sobre o que gosto ou ate automatizando trabalhos repetitivos do dia a dia, sinta-se à vontade para interagir e compartilhar conhecimentos.
 
 <a href="#">
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
 </a>  
-
-### :floppy_disk: Tecnologias e Ferramentas
 
 <a  href="#">
     <img  src="svg/dev/frameworks/react.svg" alt="react" >
@@ -46,5 +32,9 @@
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" >
 </a> 
 
+</br>
+</br>
+
+![Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=euBraianBraga&show_icons=true&theme=dracula&count_private=true)
 
 
