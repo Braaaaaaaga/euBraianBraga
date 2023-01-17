@@ -35,6 +35,7 @@ Estou sempre tentando encontrar novos jeitos de me manter atualizados, criando a
 </br>
 </br>
 
-![Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=euBraianBraga&show_icons=true&theme=dracula&count_private=true)
+![Brag'a GitHub stats](https://github-readme-stats.vercel.app/api?username=euBraianBraga&show_icons=true&theme=transparent)
+
 
 
