@@ -12,13 +12,12 @@ Sou **Braian Braga** (he/him). Sou Engenheiro de Software Front-End na [SPTECH C
 
 Acredito que a tecnologia tem o poder de mover a gente, de nos transformar e de nos levar além dos nossos limites. Ela nos permite criar, inovar e transformar o mundo ao nosso redor, e isso é algo incrivelmente empolgante e inspirador.
 
-Por isso, eu estou sempre em busca de novas oportunidades para aprender e crescer dentro desse universo que tanto amo, se você também é apaixonado por tecnologia e por tudo o que ela representa, então seja bem-vindo ao meu mundo! Aqui, vamos compartilhar ideias, experiências e conhecimentos, e juntos vamos nos inspirar e nos mover em direção ao futuro.
-
+Por isso, eu estou sempre em busca de novas oportunidades para aprender e crescer dentro desse universo que tanto amo, se você também é apaixonado por tecnologia e por tudo o que ela representa, então seja bem-vindo ao meu mundo!
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,vue,vite,react,redux,sass,tailwind,bootstrap,figma,git,github,linux,docker)](https://skillicons.dev)
 
 </br>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=euBraianBraga)
+![Braian Brag'a GitHub stats](https://github-readme-stats.vercel.app/api?username=euBraianBraga&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euBraianBraga&layout=compact)
