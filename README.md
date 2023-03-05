@@ -2,42 +2,23 @@
 
 ![1637610671189](https://user-images.githubusercontent.com/53615642/222939008-5381f1ae-e61e-4e0d-bc24-2b5a9cd9eed3.jpg)
 
-[![Linkedin: braianhudsonbraga](https://img.shields.io/badge/-Braian%20Braga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braian-hudson-braga-9aa259156/)](https://www.linkedin.com/in/braian-hudson-braga-9aa259156/)
+<p  align="center"> Sobreviver e acreditar
+Que no final a verdade vai prevalecer
+    </br>
+E ninguém vai me derrubar
+Nem todo o mal desse mundo vai me enfraquecer - Fresno :notes: </p> 
 
-<p  align="center"> Boas Vindas , tava quieto aqui sem ti :beers: :notes: </p> 
+Sou **Braian Braga** (he/him). Sou Engenheiro de Software Front-End na [SPTECH Consulting](https://github.com/BandTec), sou uma pessoa fascinada pela tecnologia desde que meu irmão me mostrou pela primeira vez uma linha de comando em um caderno.
 
-Sou **Braian Braga** (he/him). Sou Engenheiro de Software Front-End na [SPTECH Consulting](https://github.com/BandTec), sou uma pessoa fascinada pela tecnologia e seu crescimento, sempre tentando evoluir, desde que meu irmão me mostrou pela primeira vez uma linha de comando em um caderno.
+Acredito que a tecnologia tem o poder de mover a gente, de nos transformar e de nos levar além dos nossos limites. Ela nos permite criar, inovar e transformar o mundo ao nosso redor, e isso é algo incrivelmente empolgante e inspirador.
 
-Estou sempre tentando encontrar novos jeitos de me manter atualizados, criando algo sobre o que gosto ou ate automatizando trabalhos repetitivos do dia a dia, sinta-se à vontade para interagir e compartilhar conhecimentos.
-
-<a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-</a>  
-
-<a  href="#">
-    <img  src="svg/dev/frameworks/react.svg" alt="react" >
-</a>  
-
-<a a href="#">
-    <img   src="svg/dev/frameworks/vue.svg" alt="vue" >
-</a>  
-
-<a  href="#">
-    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" >
-</a>  
-
-<a href="#">
-    <img src="svg/dev/tools/bash.svg" alt="bash">
-</a>
-
-<a  href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" >
-</a> 
+Por isso, eu estou sempre em busca de novas oportunidades para aprender e crescer dentro desse universo que tanto amo, se você também é apaixonado por tecnologia e por tudo o que ela representa, então seja bem-vindo ao meu mundo! Aqui, vamos compartilhar ideias, experiências e conhecimentos, e juntos vamos nos inspirar e nos mover em direção ao futuro.
 
 </br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,vue,vite,react,redux,sass,tailwind,bootstrap,figma,git,github,linux,docker)](https://skillicons.dev)
+
 </br>
 
-![Brag'a GitHub stats](https://github-readme-stats.vercel.app/api?username=euBraianBraga&show_icons=true&theme=transparent)
-
-
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=euBraianBraga)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euBraianBraga&layout=compact)
