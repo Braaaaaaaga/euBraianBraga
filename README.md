@@ -1,5 +1,7 @@
 # Olá, sou Braian Braga! 
 
+![1637610671189](https://user-images.githubusercontent.com/53615642/222939008-5381f1ae-e61e-4e0d-bc24-2b5a9cd9eed3.jpg)
+
 [![Linkedin: braianhudsonbraga](https://img.shields.io/badge/-Braian%20Braga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braian-hudson-braga-9aa259156/)](https://www.linkedin.com/in/braian-hudson-braga-9aa259156/)
 
 <p  align="center"> Boas Vindas , tava quieto aqui sem ti :beers: :notes: </p> 
