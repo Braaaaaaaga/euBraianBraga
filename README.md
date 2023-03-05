@@ -4,7 +4,7 @@
 
 <p  align="center"> Boas Vindas , tava quieto aqui sem ti :beers: :notes: </p> 
  
-Sou **Braian Braga** (he/him). Sou Engenheiro de Software Front-End, sou uma pessoa fascinada pela tecnologia e seu crescimento, tendo que sempre se manter evoluindo, desde que meu irmão me mostrou pela primeira vez uma linha de comando em um caderno.
+Sou **Braian Braga** (he/him). Sou Engenheiro de Software Front-End, sou uma pessoa fascinada pela tecnologia e seu crescimento, sempre tentando evoluir, desde que meu irmão me mostrou pela primeira vez uma linha de comando em um caderno.
 
 Estou sempre tentando encontrar novos jeitos de me manter atualizados, criando algo sobre o que gosto ou ate automatizando trabalhos repetitivos do dia a dia, sinta-se à vontade para interagir e compartilhar conhecimentos.
 
