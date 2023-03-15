@@ -4,7 +4,7 @@
 
 Sou **Braian Braga** (he/him). Sou Engenheiro de Software Front-End na [SPTECH Consulting](https://github.com/BandTec), sou uma pessoa fascinada pela tecnologia desde que meu irmão me mostrou pela primeira vez uma linha de comando em um caderno.
 
-Acredito que a tecnologia tem o poder de mover a gente, de nos transformar e de nos levar além dos nossos limites. Ela nos permite criar, inovar e transformar o mundo ao nosso redor, e isso é algo incrivelmente empolgante e inspirador, se você também é apaixonado por tecnologia e por tudo o que ela representa, então seja bem-vindo ao meu mundo!
+Acredito que a tecnologia tem o poder de mover a gente, de nos transformar e de nos levar além dos nossos limites. Ela nos permite criar, inovar e transformar o mundo ao nosso redor.
 
 </br>
 
