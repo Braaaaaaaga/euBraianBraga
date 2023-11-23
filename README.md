@@ -12,5 +12,4 @@ Acredito que a tecnologia tem o poder de mover a gente, de nos transformar e de 
 
 </br>
 
-![Braian Brag'a GitHub stats](https://github-readme-stats.vercel.app/api?username=euBraianBraga&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euBraianBraga&layout=compact)
