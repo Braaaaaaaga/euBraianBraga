@@ -6,8 +6,4 @@ Acredito que a tecnologia tem o poder de mover a gente, de nos transformar e de 
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,vue,vite,react,redux,sass,tailwind,bootstrap,figma,git,github,linux,docker)](https://skillicons.dev)
-
-</br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euBraianBraga&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braaaaaaaga&layout=compact)
